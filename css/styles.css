@@ -253,6 +253,22 @@ p {
     padding: 8%;
   }
 
+  h1 {
+    font-size: 5rem;
+  }
+
+  h2 {
+    font-size: 3.2rem;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+  }
+
+  p {
+    font-size: 1.3rem;
+  }
+
   .title-image {
     padding: 12%;
   }
